@@ -404,6 +404,7 @@ footer p {
     }
 
     footer {
-        padding: 20px;
+        padding: 10px;
+        margin-top: 50px;
     }
 }
