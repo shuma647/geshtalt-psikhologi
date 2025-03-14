@@ -10,19 +10,9 @@ body {
 
 header {
     background-color: #ffffff;
-    color: black;
+    color: white;
+    padding: 0px;
     text-align: center;
-    padding: 20px;
-    font-family: 'Rubik', sans-serif;
-    
-    position: absolute;
-    left: 0;
-    right: 0;
-    width: 100%;
-    height: 40px;
-    display: flex;
-    align-items: center;
-    justify-content: center;
 }
 
 h1 {
